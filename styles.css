@@ -14,7 +14,7 @@ credit {
     border-radius: 12px;
     padding: 5px;
     direction: row;
-    align-items: center;
+    align-items: end;
 }
 
 credittxt {
