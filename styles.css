@@ -17,7 +17,7 @@ credit {
 }
 
 credittxt {
-    direction: column;
+    direction: row;
     padding: 5px;
     font-size: 8px;
 }
