@@ -14,9 +14,9 @@ credit {
     border-radius: 12px;
     direction: column;
     align-items: center;
+    padding: 5px;
 }
 
 credittxt {
-    padding: 5px;
     font-size: 8px;
 }
