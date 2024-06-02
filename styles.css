@@ -12,8 +12,8 @@ credit {
     border-width: 2px;
     border-color: antiquewhite;
     border-radius: 12px;
-    direction: row;
-    align-items: end;
+    direction: column;
+    align-items: center;
 }
 
 credittxt {
