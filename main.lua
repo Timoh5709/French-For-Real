@@ -1,3 +1,3 @@
 get("goart1").onClick(
-    print("hello")
+    print('hello')
 )
