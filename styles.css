@@ -2,6 +2,11 @@ p {
     font-size: 14px;
 }
 
+button {
+    padding: 5px;
+    color: coral;
+}
+
 titrearticle {
     color: darkcyan;
 }
@@ -13,7 +18,7 @@ titrepageo {
 credit {
     border-style: solid;
     border-width: 2px;
-    border-color: whitesmoke;
+    border-color: antiquewhite;
     border-radius: 15px;
     padding: 5px;
     direction: column;
