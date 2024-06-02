@@ -9,9 +9,9 @@ titrepageo {
 
 credit {
     border-style: solid;
-    border-width: 2px;
+    border-width: 8px;
     border-color: antiquewhite;
-    border-radius: 12px;
+    border-radius: 24px;
     direction: column;
     align-items: center;
 }
