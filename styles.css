@@ -2,6 +2,10 @@ p {
     font-size: 14px;
 }
 
+a {
+    color: darkred;
+}
+
 titrearticle {
     color: darkcyan;
 }
