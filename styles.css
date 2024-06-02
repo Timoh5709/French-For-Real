@@ -1,13 +1,23 @@
 p {
-    font-size: 14px;
+    font-size: 12px;
 }
 
 a {
-    color: darkred;
+    color: red;
 }
 
 titrearticle {
     color: darkcyan;
+}
+
+divarticle {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkblue;
+    border-radius: 5px;
+    padding: 5px;
+    direction: column;
+    align-items: start;
 }
 
 titrepageo {
