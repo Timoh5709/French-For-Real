@@ -12,11 +12,11 @@ credit {
     border-width: 2px;
     border-color: antiquewhite;
     border-radius: 12px;
-    padding: 5px;
     direction: row;
     align-items: end;
 }
 
 credittxt {
+    padding: 5px;
     font-size: 8px;
 }
