@@ -6,3 +6,9 @@ p {
 titrepageo {
     font-family: Times New Roman;
 }
+
+credit {
+    border-color: #ccc;
+    border-width: 3px;
+    border-style: solid;
+}
