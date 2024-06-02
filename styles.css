@@ -4,7 +4,8 @@ p {
 }
 
 titrearticle {
-    color: aqua;
+    color: rgb(49, 91, 170);
+    underline: single;
 }
 
 titrepageo {
